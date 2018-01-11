@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Levenshtein Edit Distance</string>
+    <string name="label_string1">String 1</string>
+    <string name="label_string2">String 2</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="label_distance">Distance</string>
+</resources>

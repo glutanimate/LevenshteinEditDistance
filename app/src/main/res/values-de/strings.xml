@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Levenshtein Editierdistanz</string>
+    <string name="button_calculate">Berechnen</string>
+    <string name="label_distance">Distanz</string>
+    <string name="label_string1">Zeichenkette 1</string>
+    <string name="label_string2">Zeichenkette 2</string>
+</resources>
